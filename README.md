@@ -1,4 +1,4 @@
-# SCOKET CHAT API
+# SOCKET CHAT API
 
 ## Setup
 
